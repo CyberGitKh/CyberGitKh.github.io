@@ -20,7 +20,7 @@ title                    : "Blog Cyber KH"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KH Cyber"
-description              : "An amazing Blog of my Cybersecurity achievements ."
+description              : "Hack Notes, HTB, Tryhackme, Offsec, Blog of my Cybersecurity achievements ."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
