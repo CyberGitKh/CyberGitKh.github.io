@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "KH Hacker Blog"
 title_separator          : "-"
-subtitle                 : "Hack Notes, HTB, Tryhackme, Offsec, Blog of my Cybersecurity achievements / eCPPTv2 / eJPT / CCNA / Ethical Hacker /"# site tagline that appears below site title in masthead
+subtitle                 : "Blog of my Cybersecurity achievements "# site tagline that appears below site title in masthead
 name                     : "KH Cyber"
 description              : "Working on OSCP / eCPPTv2 / eJPT / Ethical Hacker /"
 url                      : "https://cybergitkh.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "J.Martinez"
   avatar           : "/assets/images/Hacker-logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am passionate about cybersecurity and self-taught. I am preparing to give my all in CyberSecurity certifications."
+  bio              : "Warning:  Certificados: Working on OSCP // ECCPTv2 // EJPT // CPHE // Descripcion: I am passionate about cybersecurity and self-taught. I am preparing to give my all in CyberSecurity Certifications."
   location         : "Spain, Alicante"
   email            : "cybermailkh@gmail.com"
   links:
