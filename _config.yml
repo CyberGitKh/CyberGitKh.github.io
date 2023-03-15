@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blog CyberKH"
+title                    : "Blog Cyber KH"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "KH Cyber"
-description              : "An amazing website."
+description              : "An amazing Blog of my Cybersecurity achievements ."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cyber K"
+  name             : "J. Martinez"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            : "cybermailkh"
+  bio              : "I am passionate about cybersecurity and self-taught. I am preparing to give my all in the following certifications such as the OSCP."
+  location         : "Spain, Alicante"
+  email            : "cybermailkh@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
