@@ -108,8 +108,9 @@ author:
   avatar           : "/assets/images/Hacker-logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Warning:  Certificados: Working on OSCP // ECCPTv2 // EJPT // CPHE // Descripcion: I am passionate about cybersecurity and self-taught. I am preparing to give my all in CyberSecurity Certifications."
   location         : "Spain, Alicante"
-  email            : 
-  links:
+  email            : "cybermailkh@gmail.com"
+  linkeding        : "https://www.linkedin.com/in/javier-mart%C3%ADnez-b75806140/"
+    links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
     - label: "Website"
