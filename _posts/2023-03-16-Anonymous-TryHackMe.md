@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Maquina Anonymous de TryHackMe (No necesario VIP)"
+categories: "TryHackMe"
 description: En esta ocasion empezaremos con el Writeup de la maquina de TryHackMe llamada ANONYMOUS
 tags: TryHackMe, Ftp, Smb, CurlFtp, Web Hacking, , SUID, Writeup, 
 ---
