@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maquina Retirada Union de Hack The Box (Necesario VIP)"
-categories: "SQL Injection"
+categories: "SQLInjection"
 description: En esta ocasion empezaremos con el Writeup de la maquina de HackTheBox llamada UNION
 tags: HTB, SQLI, Local File Inclusion, PHP, X-Forwarder-For, Command Injection, Maquinas Retiradas,
 ---

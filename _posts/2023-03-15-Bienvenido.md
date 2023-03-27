@@ -18,7 +18,7 @@ Empecemos por:
  * Hack The Box
  * TryHackMe
  * Scripts en Python3
- * Script en Bash
+ * Scripts en Bash
 
  Ultimos Writeups:
  

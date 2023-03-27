@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Maquina  Retirada Sneaky de Hack The Box (Necesario VIP)"
+categories: "HTB, BOF"
 description: En esta ocasion empezaremos con el Writeup de la maquina de HackTheBox llamada SNEAKY
 tags: HTB, IPV6, SNMP, SQLInjecction, Web Hacking, BOF, Maquinas Retiradas, Writeup
 ---

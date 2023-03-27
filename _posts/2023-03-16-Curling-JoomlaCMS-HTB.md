@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Maquina  Retirada Curling de Hack The Box (Necesario VIP)"
+categories: "HTB"
 description: En esta ocasion empezaremos con el Writeup de la maquina de HackTheBox llamada CURLING
 tags: HTB, Joomla, CURL, Web Hacking, Maquinas Retiradas, Writeup
 ---

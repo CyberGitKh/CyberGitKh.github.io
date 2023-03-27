@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Maquina Retirada SteamCloud de Hack The Box (Necesario VIP)"
+categories: "HTB"
 description: En esta ocasion empezaremos con el Writeup de la maquina de HackTheBox llamada STEAMCLOUD.
 tags: HTB, Kubernetes, RCE, Misconfigurations, Malicius Pods/Container.
 ---

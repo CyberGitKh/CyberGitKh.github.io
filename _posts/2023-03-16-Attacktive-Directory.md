@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Maquina Retirada Search de Hack The Box (Necesario VIP)"
+categories: "HTB"
 description: En esta ocasion empezaremos con el Writeup de la maquina de HackTheBox llamada Search
 tags: THM, Enumeration, SMB, Kerbrute Userenum, ASPREPRoast Attack, Kerberoasting Attack, Secretsdumps.py, Maquina Gratuitas.
 ---

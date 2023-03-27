@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Maquina Retirada LogForge de Hack The Box (Necesario VIP)"
+categories: "HTB"
 description: En esta ocasion empezaremos con el Writeup de la maquina de HackTheBox llamada LOGFORGE que presenta la famosa Vuln Log4j
 tags: HTB, Log4j, Tomcat, LDAP Injection, Ysoserial, RCE, JNDI, Web Hacking, Maquinas Retiradas, Writeup
 ---

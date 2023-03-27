@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Maquina Retirada Inception de Hack The Box (Necesario VIP)"
+categories: "HTB"
 description: En esta ocasion empezaremos con el Writeup de la maquina de HackTheBox llamada INCEPTION
 tags: HTB, dompdf, Remote File Read, squidproxy, webdav, CronTabs, Web Hacking, Maquinas Retiradas, Writeup
 ---

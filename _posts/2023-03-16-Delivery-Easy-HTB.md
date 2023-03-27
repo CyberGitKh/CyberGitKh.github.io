@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Maquina  Retirada Delivery de Hack The Box (Necesario VIP) creada por IppSec"
+categories: "HTB"
 description: En esta ocasion empezaremos con el Writeup de la maquina de HackTheBox llamada DELIVERY
 tags: HTB, Mattermost, OSTicket, Hijacking, Web Hacking, Maquinas Retiradas, Writeup
 ---
