@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "OSCP Path ~ TartarSauce de Hack The Box (Necesario VIP)"
+categories: "HTB OSCP-PATH"
 description: Writeup de la maquina de HackTheBox llamada TTARTARSAUCE siguiendo el PATH para el OSCP
 tags: HTB, OSCP Path, Wordpress, Wpscan, Plugins, Gwolle, tar, python, Maquinas Retiradas, Writeup, Hacking
 ---

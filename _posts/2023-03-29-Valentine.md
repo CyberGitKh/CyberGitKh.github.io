@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "OSCP Path ~ Valentine de Hack The Box (Necesario VIP)"
+categories: "HTB OSCP-PATH"
 description: Writeup de la maquina de HackTheBox llamada VALENTINE siguiendo el PATH para el OSCP
 tags: HTB, OSCP Path, HeartBleed, fcrackzip, Tmux-Priv, Maquinas Retiradas, Writeup, Hacking
 ---

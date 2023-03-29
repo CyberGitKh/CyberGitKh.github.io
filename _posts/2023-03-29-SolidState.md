@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "OSCP Path ~ SolidState de Hack The Box (Necesario VIP)"
+categories: "HTB OSCP-PATH"
 description: Writeup de la maquina de HackTheBox llamada SOLIDSTATE siguiendo el PATH para el OSCP
 tags: HTB, OSCP Path, Mail, smtpd, PopD, Remote Admin, Maquinas Retiradas, Writeup, Hacking
 ---

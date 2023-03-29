@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "OSCP Path ~ Brainfuck de Hack The Box (Necesario VIP)"
+categories: "HTB OSCP-PATH"
 description: Writeup de la maquina de HackTheBox llamada BRAINFUCK siguiendo el PATH para el OSCP
 tags: HTB, OSCP Path, Cifrado Decimal, Cifrado Hex, Dovecot, Maquinas Retiradas, Writeup, Hacking
 ---
